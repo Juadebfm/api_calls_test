@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Color Palette Generator</title>
+    <style>
+      .color-box {
+        display: inline-block;
+        width: 100px;
+        height: 100px;
+        margin: 10px;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Color Palette Generator</h1>
+    <label for="colorInput">Enter colors:</label>
+    <input
+      type="text"
+      id="colorInput"
+      placeholder="Enter colors (e.g., #FF0000, #00FF00, #0000FF)"
+    />
+    <button id="generateBtn">Generate Palette</button>
+    <div id="colorPalette"></div>
+
+    <script src="./color.js"></script>
+  </body>
+</html>
