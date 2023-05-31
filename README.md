@@ -43,7 +43,7 @@
 
 ## :dart: About
 
-Describe your project
+This project and it's branches was creating to assist newbies with the fundamentals of API consumption using the Fetch API. This is a project based approach to understanding how to consume, manipulate and render data from a backend on the frontend. The projects in here are easy to follow and understand, and they serve as a good start point for anyone looking to learn these technologies. All i ask for is a _star_.
 
 ## :sparkles: Features
 
